@@ -61,6 +61,7 @@ This tool was split into two functioning roles to account for the need of a chan
 
 ### Authors
 
+* **Lumos Cloud** - *licensed Distributor* - [lumoscloud](https://github.com/lumoscloud)
 * **James Kayser** - *Initial work* - [kayserj](https://github.com/kayserj)
 
 ### License
